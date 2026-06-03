@@ -1,0 +1,10 @@
+{
+  "@@locale": "uz",
+  "home": "Asosiy",
+  "profile": "Profil",
+  "changeLanguage": "Tilni o'zgartirish",
+  "search": "Qidiruv",
+  "logoutConfirmation": "Chiqishni xohlaysizmi?",
+  "cancel": "Bekor qilish",
+  "logout": "Chiqish"
+}

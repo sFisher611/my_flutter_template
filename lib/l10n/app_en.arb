@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "home": "Home",
+  "profile": "Profile",
+  "changeLanguage": "Change Language",  
+  "search": "Search",
+  "logoutConfirmation": "Are you sure you want to log out?",
+  "cancel": "Cancel",
+  "logout": "Logout"
+}

@@ -1,0 +1,10 @@
+{
+  "@@locale": "ru",
+  "home": "Главная",
+  "profile": "Профиль",
+  "changeLanguage": "Сменить язык",
+  "search": "Поиск",
+  "logoutConfirmation": "Вы уверены, что хотите выйти?",
+  "cancel": "Отмена",
+  "logout": "Выйти"
+}
