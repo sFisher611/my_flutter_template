@@ -26,7 +26,7 @@ Shablonning poydevori mustahkam, tez va xavfsiz bo‘lishi uchun eng ishonchli v
 1.  **Noldan boshlash daxshatidan qutulish:** Yangi g‘oya kelganda, sozlamalarni (til, mavzu, network, router) noldan yozishga 2-3 kun sarflamaysiz. Loyihani yuklab, srazu biznes logikani yozishni boshlaysiz.
 2.  **Universal Dizayn Tizimi (Dark/Light):** Ranglar va stillar markaziy `ThemeData`ga bog‘langanligi sababli, dizayn o‘zgarishi butun ilova bo‘ylab bir lahzada aks etadi.
 3.  **Tayyor Tarjima Poydevori:** Yangi til qo‘shish shunchaki `l10n/` papkasiga yangi JSON fayl (masalan, `zh.json`) qo‘shish bilan hal bo‘ladi.
-4.  **AI Loyihalariga To‘liq Moslik:** `ApiProvider` ichidagi bufferli stream tizimi tufayli loyihaga ChatGPT yoki sizning shaxsiy *Hunter AI* kabi LLM modellarini ulash va javoblarni ekranda silliq chizish imkoniyati 100% tayyor.
+
 
 ```
 .
